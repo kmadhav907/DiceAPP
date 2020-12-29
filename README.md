@@ -1,6 +1,7 @@
-# dice_app
+# diceApp
 
 A new Flutter application.
+A Demonstartion of Stateful Widget in Flutter 
 
 ## Getting Started
 
